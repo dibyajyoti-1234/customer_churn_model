@@ -52,5 +52,5 @@ This project uses an Artificial Neural Network (ANN) built with TensorFlow to pr
 ## Notes
 - Ensure `Churn_Modelling.csv` is in the project directory before running the notebook.
 - The ANN uses two hidden layers with 6 units each, ReLU activation, and a sigmoid output layer for binary classification.
-- The model is trained for 100 epochs with a batch size of 32.
+- The model is trained for 200 epochs with a batch size of 32.
 
