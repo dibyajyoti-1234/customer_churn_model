@@ -21,8 +21,8 @@ This project uses an Artificial Neural Network (ANN) built with TensorFlow to pr
 
 2. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/dibyajyoti-1234/customer_churn_model.git>
+   cd <customer_churn_model>
    ```
 
 3. **Run the Notebook**:
